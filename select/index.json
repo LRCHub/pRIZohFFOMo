@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Someone You Loved",
+  "base_artist": "Lewis Capaldi",
+  "createdAt": "2025-12-20T12:32:56.059371Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "has_synced": true,
+      "path": "select/01_Someone_You_Loved_Lewis_Capaldi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "has_synced": true,
+      "path": "select/02_Someone_You_Loved_Lewis_Capaldi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "has_synced": true,
+      "path": "select/03_Someone_You_Loved_Lewis_Capaldi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "has_synced": true,
+      "path": "select/04_Someone_You_Loved_Lewis_Capaldi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SOMEONE YOU LOVED",
+      "artist": "LEWIS CAPALDI",
+      "has_synced": true,
+      "path": "select/05_SOMEONE_YOU_LOVED_LEWIS_CAPALDI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "has_synced": true,
+      "path": "select/06_Someone_You_Loved_Lewis_Capaldi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Someone You Loved (Future Humans Remix)",
+      "artist": "Lewis Capaldi",
+      "has_synced": true,
+      "path": "select/07_Someone_You_Loved_(Future_Humans_Remix)_Lewis_Capaldi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Someone You Loved - Live From The BRIT Awards, London 2020",
+      "artist": "Lewis Capaldi",
+      "has_synced": true,
+      "path": "select/08_Someone_You_Loved_-_Live_From_The_BRIT_Awards,_London_2020_Lewis_Capaldi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Someone You Loved - Live from Capitol Studios / 1 Mic 1 Take",
+      "artist": "Lewis Capaldi",
+      "has_synced": true,
+      "path": "select/09_Someone_You_Loved_-_Live_from_Capitol_Studios___1_Mic_1_Take_Lewis_Capaldi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Someone You Loved (Madism Radio Mix)",
+      "artist": "Lewis Capaldi",
+      "has_synced": true,
+      "path": "select/10_Someone_You_Loved_(Madism_Radio_Mix)_Lewis_Capaldi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "has_synced": true,
+      "path": "select/11_Someone_You_Loved_Lewis_Capaldi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "has_synced": true,
+      "path": "select/12_Someone_You_Loved_Lewis_Capaldi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "has_synced": true,
+      "path": "select/13_Someone_You_Loved_Lewis_Capaldi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "has_synced": true,
+      "path": "select/14_Someone_You_Loved_Lewis_Capaldi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "has_synced": true,
+      "path": "select/15_Someone_You_Loved_Lewis_Capaldi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "has_synced": false,
+      "path": "select/pl_01_Someone_You_Loved_Lewis_Capaldi.txt"
+    }
+  ]
+}
